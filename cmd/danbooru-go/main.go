@@ -12,9 +12,9 @@ import (
 	pb "github.com/schollz/progressbar/v3"
 	"github.com/valyala/fasthttp"
 
-	"github.com/tiltedtoast/danbooru-go/internal"
-	log "github.com/tiltedtoast/danbooru-go/internal/logger"
-	"github.com/tiltedtoast/danbooru-go/internal/options"
+	"github.com/tdortman/danbooru-go/internal"
+	log "github.com/tdortman/danbooru-go/internal/logger"
+	"github.com/tdortman/danbooru-go/internal/options"
 )
 
 var (
