@@ -1,4 +1,4 @@
-module github.com/tiltedtoast/danbooru-go
+module github.com/tdortman/danbooru-go
 
 go 1.21
 
