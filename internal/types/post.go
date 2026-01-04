@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	log "github.com/tiltedtoast/danbooru-go/internal/logger"
-	"github.com/tiltedtoast/danbooru-go/internal/options"
+	log "github.com/tdortman/danbooru-go/internal/logger"
+	"github.com/tdortman/danbooru-go/internal/options"
 	"github.com/valyala/fasthttp"
 )
 
