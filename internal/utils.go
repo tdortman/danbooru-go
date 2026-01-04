@@ -230,5 +230,5 @@ func PrintHelpMessage() {
 	fmt.Println("  -v  --verbose       add this flag to enable verbose output (prints everything)")
 	fmt.Println("      --debug         add this flag to enable debug information")
 	fmt.Println("")
-	fmt.Println("For more information, see https://github.com/TiltedToast/danbooru-go")
+	fmt.Println("For more information, see https://github.com/tdortman/danbooru-go")
 }
