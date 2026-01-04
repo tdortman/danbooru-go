@@ -16,9 +16,9 @@ import (
 	"github.com/valyala/fasthttp"
 	"go.uber.org/ratelimit"
 
-	log "github.com/tiltedtoast/danbooru-go/internal/logger"
-	"github.com/tiltedtoast/danbooru-go/internal/types"
-	"github.com/tiltedtoast/danbooru-go/internal/options"
+	log "github.com/tdortman/danbooru-go/internal/logger"
+	"github.com/tdortman/danbooru-go/internal/types"
+	"github.com/tdortman/danbooru-go/internal/options"
 )
 
 var (
